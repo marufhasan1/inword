@@ -1,2 +1,2 @@
-# inword
-Bangla and English Inword
+# Bangla and English Inword In Javascript
+Easy to use
